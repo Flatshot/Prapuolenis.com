@@ -38,7 +38,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'Prapuolenis.FBAPI',
-    'Prapuolenis.HomePg',
+
 )
 
 MIDDLEWARE_CLASSES = (
