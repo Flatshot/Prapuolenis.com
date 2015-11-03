@@ -20,8 +20,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/templates" />
-        <option value="$MODULE_DIR$/Prapuolenis/HomePg/template" />
-        <option value="$MODULE_DIR$/Prapuolenis/HomePg/template/HomePg" />
+        <option value="$MODULE_DIR$/Prapuolenis/Apps/FBAPI/static/templates" />
       </list>
     </option>
   </component>
