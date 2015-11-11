@@ -5,7 +5,9 @@ from .models import ProfileStore
 
 
 class FBAPIAdmin(admin.ModelAdmin):
-    fields = ('Name', 'Api Info', 'Backup Picture')
+    name = 'Name'
+    api_string = 'Api Info'
+    bPic = 'Backup Picture'
 
 
 admin.site.register(ProfileStore, FBAPIAdmin)
